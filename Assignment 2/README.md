@@ -1,1 +1,1 @@
-Neural Network for Doodle recognition
+## Neural Network for Doodle recognition
